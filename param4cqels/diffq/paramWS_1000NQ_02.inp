@@ -1,0 +1,12 @@
+CQELS_HOME /media/Windows/ThesisFactory/CQELSHOME
+QUERY_LIST_FILE_NAME /media/Windows/ThesisFactory/input/CQELS/involved_queries.txt
+NUMBER_OF_QUERIES 02
+WINDOW_SIZE 1000
+STREAM_SIZE 6000000
+STREAM_SOURCE /media/Windows/ThesisFactory/data/rdf
+STATIC_INVOLVED true
+STATIC_SOURCE /media/Windows/ThesisFactory/data/mergedGraph.n3
+STARTING_COUNT 4525399
+OUTPUT_DES /media/Windows/ThesisFactory/output/CQELSPLUS/MC4DiffQueries
+RESULTLOG WS_1000NQ_02.log
+EXPOUT WS_1000NQ_02.out
