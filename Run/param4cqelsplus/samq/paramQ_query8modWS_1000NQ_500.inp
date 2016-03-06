@@ -1,0 +1,12 @@
+CQELS_HOME /home/chanlevan/workspace/CQELS
+QUERY_NAME /media/Windows/ThesisFactory/input/CQELS/query8mod.cqels
+WINDOW_SIZE 1000
+NUMBER_OF_QUERIES 500
+STREAM_SIZE 6000000
+STREAM_SOURCE /media/Windows/ThesisFactory/data/rdf
+STATIC_INVOLVED true
+STATIC_SOURCE /media/Windows/ThesisFactory/data/mergedGraph.n3
+STARTING_COUNT 4525399
+OUTPUT_DES /media/Windows/ThesisFactory/output/CQELSPLUS/MemoryConsumption/
+RESULTLOG Q_query8modWS_1000NQ_500.log
+EXPOUT Q_query8modWS_1000NQ_500.out

@@ -1,0 +1,11 @@
+CQELS_HOME /home/chanlevan/workspace/CQELS
+QUERY_NAME /media/Windows/ThesisFactory/input/CQELS/query1mod.cqels
+WINDOW_SIZE 1000
+NUMBER_OF_QUERIES 250
+STREAM_SIZE 6000000
+STREAM_SOURCE /media/Windows/ThesisFactory/data/rdf
+STATIC_INVOLVED false
+STARTING_COUNT 4525399
+OUTPUT_DES /media/Windows/ThesisFactory/output/CQELSPLUS/MemoryConsumption/
+RESULTLOG Q_query1modWS_1000NQ_250.log
+EXPOUT Q_query1modWS_1000NQ_250.out
