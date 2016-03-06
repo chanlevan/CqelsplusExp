@@ -1,0 +1,6 @@
+Exception in thread "main" java.io.FileNotFoundException: /param4cqels/diffq/* (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at org.deri.cqels.test.masterthesisexp.MC4DifferentQueries.main(MC4DifferentQueries.java:39)

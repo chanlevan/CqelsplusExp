@@ -1,5 +1,5 @@
 #!/bin/bash
-for f in /home/chanlevan/MastersOfAppliedScience/Dev/Experiments/bin/param4cqelsplus/samq/*
+for f in /param4cqelsplus/diffq/*
 do 
 fname="${f##*/}"
 echo ${fname}
